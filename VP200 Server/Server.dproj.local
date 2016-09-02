@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/09/01 16:11:26.000.548,=C:\Users\Genilton Souza\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/09/01 16:12:47.000.431,C:\Users\Genilton Souza\Documents\Embarcadero\Studio\Projects\Server.pas=C:\Users\Genilton Souza\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/09/01 16:12:47.000.431,C:\Users\Genilton Souza\Documents\Embarcadero\Studio\Projects\Server.dfm=C:\Users\Genilton Souza\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/09/01 16:13:09.000.806,C:\Users\Genilton Souza\Documents\Embarcadero\Studio\Projects\MainForm.pas=C:\Users\Genilton Souza\Documents\Embarcadero\Studio\Projects\Server.pas</Transaction>
+    <Transaction>2016/09/01 16:13:09.000.806,C:\Users\Genilton Souza\Documents\Embarcadero\Studio\Projects\MainForm.dfm=C:\Users\Genilton Souza\Documents\Embarcadero\Studio\Projects\Server.dfm</Transaction>
+    <Transaction>2016/09/01 16:13:18.000.232,C:\Users\Genilton Souza\Documents\Embarcadero\Studio\Projects\Server.dproj=C:\Users\Genilton Souza\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2016/09/01 17:12:06.000.508,=C:\Users\Genilton Souza\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/09/01 17:12:25.000.951,C:\Users\Genilton Souza\Documents\Embarcadero\Studio\Projects\VP200Commands.pas=C:\Users\Genilton Souza\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
